@@ -6,3 +6,5 @@ Item URL: [martfury-react]('https://themeforest.net/item/martfury-multipurpose-m
 
 admin@admin.com
 Admin@2021
+
+sudo yarn install --ignore-engines
