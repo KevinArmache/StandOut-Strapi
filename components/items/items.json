@@ -26,10 +26,6 @@
     },
     "link": {
       "type": "string"
-    },
-    "DateFinPromotion": {
-      "type": "string",
-      "default": "20 1 2023, 6:00 am"
     }
   }
 }
